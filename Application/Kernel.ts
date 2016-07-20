@@ -1,4 +1,4 @@
-/// <reference path="AddressBook.ts" />
+/// <reference path="./../Organizer/AddressBook.ts" />
 
 namespace Application {
 
